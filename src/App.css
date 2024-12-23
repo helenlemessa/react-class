@@ -1,0 +1,19 @@
+ .maps{
+   width: 200px;
+ 
+  background-color: gray;
+ margin: 12px;
+ font-size: 30px;
+ text-align: center;
+ list-style-position: inside;
+  
+ }
+ .group {
+  display: flex;                
+  justify-content: center;      
+ flex-direction: column;
+ align-items: center;           
+}
+ 
+ 
+  
